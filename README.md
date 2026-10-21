@@ -24,6 +24,7 @@ task-manager/
 ├── Dockerfile
 ├── README.md
 └── templates/
+    └── index.html
 ```
 
 ## Run Locally
