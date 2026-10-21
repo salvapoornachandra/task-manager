@@ -63,4 +63,6 @@ docker run -p 5000:5000 task-manager
 Salva Poorna Chandra
 
 GitHub: https://github.com/salvapoornachandra
+## Application Output
 
+![Task Manager Output](screenshots/task-manager-output.png)
